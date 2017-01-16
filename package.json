@@ -1,0 +1,19 @@
+{
+  "name": "nytreact",
+  "version": "1.0.0",
+  "description": "This is a React-based New York Times Article Search application. It includes React components, helper functions, and the React mounting lifecycle to query and display articles based on user searches. It also uses Node, Express and MongoDB so that users can save articles to read later.",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smaashthemac/nytreact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smaashthemac/nytreact/issues"
+  },
+  "homepage": "https://github.com/smaashthemac/nytreact#readme"
+}
